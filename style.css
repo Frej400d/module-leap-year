@@ -1,0 +1,25 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: lavender;
+}
+#container {
+  width: 100%;
+  margin-top: 5rem;
+  margin-inline: auto;
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 2rem;
+  font-size: 2rem;
+}
+
+.first {
+  margin-bottom: 2rem;
+}
