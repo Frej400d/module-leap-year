@@ -12,5 +12,17 @@
   },
   "dependencies": {
     "leap-year": "^4.0.0"
-  }
+  },
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Frej400d/module-leap-year.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Frej400d/module-leap-year/issues"
+  },
+  "homepage": "https://github.com/Frej400d/module-leap-year#readme",
+  "description": ""
 }
